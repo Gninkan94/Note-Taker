@@ -8,7 +8,7 @@ This app was build using JavaScripts, express, nodejs,db, HTML,CSS,fs. deployed 
 ![screenshot](./public/assets/images/Screenshot%202023-07-23%20at%206.10.56%20PM.png)
 ![screenshot](./public/assets/images/Screenshot%202023-07-23%20at%206.11.17%20PM.png)
 
-## deployed link
+## Deployed link
 [Click Here](https://note-taker-expressjs-nodejs-0066f7445e19.herokuapp.com/)
 ## Contributors
 N/A
