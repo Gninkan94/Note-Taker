@@ -1,6 +1,6 @@
 const express = require('express');
-const api_routes = require('Note-Taker/routes/api-routes.js')
-const html_routes = require('Note-Taker/routes/html-routes.js')
+const api_routes = require('/Users/ibrahimadiallo/Desktop/Expresschallenge/Note-Taker/routes/api-routes.js')
+const html_routes = require('/Users/ibrahimadiallo/Desktop/Expresschallenge/Note-Taker/routes/html-routes.js')
 const PORT = process.env.PORT || 3001;
 // dynamically set the port
 const app = express();
